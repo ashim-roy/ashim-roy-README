@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashim-roy&label=Profile%20views&color=0e75b6&style=flat" alt="ashim-roy" /> </p>
 
-- 🔭 I’m currently working on **a Backend Capstone Project**
+- 🔭 I’m currently working on **A Backend Capstone Project**
 
-- 🌱 I’m currently learning **Java & DSA**
+- 🌱 I’m currently learning **High Level Design**
 
-- 💬 Ask me about **Java, Python, Docker, Linux**
+- 💬 Ask me about **Java, Design Pattern, High Level Design, Docker, Linux**
 
 - 📫 How to reach me **hi.ashimroy@gmail.com**
 
